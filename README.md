@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Edusphere is an educational platform designed to provide a seamless and engaging learning experience. This landing page project is part of my work with CodSoft and showcases my skills in web development using modern technologies.
+Edusphere is an educational platform designed to provide a seamless and engaging learning experience. This landing page project is part of my project work  and showcases my skills in web development using modern technologies.
 
 ### Deployed Link
 
