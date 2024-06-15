@@ -1,6 +1,6 @@
 # Edusphere
 
-
+<img src="screenshot.png" width="600" height="300">
 
 ## Project Overview
 
